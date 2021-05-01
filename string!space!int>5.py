@@ -1,6 +1,7 @@
 import numpy as np
 
 def str_to_list(str):
+	print("hello")
     l=list(str)
 
     for i in str:
